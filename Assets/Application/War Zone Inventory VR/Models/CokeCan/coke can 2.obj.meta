@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 72c5de8269489244a9e7727b8a8e2822
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hyper_NURBS1_CylindreMat
+    second: {fileID: 2100000, guid: 638fce4124c838f4d94a6938fd65afba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_AMat
+    second: {fileID: 2100000, guid: bc70ac4b3642307428a27ac527d00f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_A_Couvercle_11Mat
+    second: {fileID: 2100000, guid: 7081b4270d24c054aa4650248082f412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_A_Couvercle_22Mat
+    second: {fileID: 2100000, guid: 1c1581990e035ce479b799c28a7f19af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_DMat
+    second: {fileID: 2100000, guid: 19afcb48f76381349bd562cbe9d1345b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_D_Couvercle_13Mat
+    second: {fileID: 2100000, guid: fe9850847c9a69b4ba161f225930452c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_D_Couvercle_24Mat
+    second: {fileID: 2100000, guid: a2d2e38551de19a4a8ee1c81ae2e5d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_IMat
+    second: {fileID: 2100000, guid: 98abd3d328e51d5468b0c3bfde606d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_I_Couvercle_1Mat
+    second: {fileID: 2100000, guid: 616f164637e8c304194334f602a5461b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_I_Couvercle_25Mat
+    second: {fileID: 2100000, guid: 3872fee0bf4f52a43ad2c11970e6485e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_NMat
+    second: {fileID: 2100000, guid: 1c9fd2eb2fab5f742a9ac24f229e92ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_N_Couvercle_16Mat
+    second: {fileID: 2100000, guid: 3a44ea64fa81dad4fa401ba42c34b7f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_N_Couvercle_21Mat
+    second: {fileID: 2100000, guid: a9251b23e6092034f9fdd49813ce5b8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_PMat
+    second: {fileID: 2100000, guid: 0d20f748ab19ec84294b078e3f0f33e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_P_Couvercle_12Mat
+    second: {fileID: 2100000, guid: 316592b843121534480c476e3eb98216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_P_Couvercle_26Mat
+    second: {fileID: 2100000, guid: f41e6cdead75f0f4499f02ee6e5e0c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_RMat
+    second: {fileID: 2100000, guid: 632e9432e6eec5f4e8f5256142d7d9c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_R_Couvercle_15Mat
+    second: {fileID: 2100000, guid: 70abaf927019eaa4a8ac2f15739c5583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_Texte___PINDRA_R_Couvercle_2Mat
+    second: {fileID: 2100000, guid: 2302521cf6170ae4f8bf14f89463e70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_neutre3_Objet_neutre4_Couvercle_14Mat
+    second: {fileID: 2100000, guid: 0b0f6f92db33fa048ab8c27ac389911c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_neutre3_Objet_neutre4_Couvercle_23Mat
+    second: {fileID: 2100000, guid: 726cd533141a5ee43a6e461d47c37e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_neutre3_Objet_neutre4_CubeMat
+    second: {fileID: 2100000, guid: 1d7d41f9a3010a14ab3b3591d0bc3290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Objet_neutre3_Objet_neutre4_Hyper_NURBSMat
+    second: {fileID: 2100000, guid: 4505b582b3306a14c987e7c5a84a608c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

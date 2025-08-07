@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6577859710228410699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5692091122840931723}
+  - component: {fileID: 5749667321871533484}
+  m_Layer: 0
+  m_Name: UI_Handler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5692091122840931723
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6577859710228410699}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5749667321871533484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6577859710228410699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33a420918d77ee94a8f9e05ba49104ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stepNameText: {fileID: 0}
+  audioSource: {fileID: 0}
+  steps:
+  - stepName: Press the button on your left-hand wristband to open the Weapon Inventory.
+    audioClip: {fileID: 8300000, guid: 651fe5fe1a0212c4ead3c3c11cfaf972, type: 3}
+  - stepName: Pick up the explosive from the table marked with a blue ghost hand
+      hovering above it.
+    audioClip: {fileID: 8300000, guid: 1080e7015e38f164d96ab11d1e7a05de, type: 3}
+  - stepName: "Place the explosive in the Explosives compartment and release the
+      grab button to snap it into place. The item will be added to your inventory
+      \u2014 check the Inventory Status panel to see the increased Explosives count."
+    audioClip: {fileID: 8300000, guid: 75dd33040fa4b1744919ee4c73a75b9e, type: 3}
+  - stepName: Pick up the explosive from the table marked with a blue ghost hand
+      hovering above it.
+    audioClip: {fileID: 8300000, guid: 1080e7015e38f164d96ab11d1e7a05de, type: 3}
+  - stepName: "Place the explosive in the Explosives compartment and release the
+      grab button to snap it into place. The item will be added to your inventory
+      \u2014 check the Inventory Status panel to see the increased Explosives count."
+    audioClip: {fileID: 8300000, guid: 75dd33040fa4b1744919ee4c73a75b9e, type: 3}
+  - stepName: Grab the explosive with the ghost mesh from the Explosives compartment
+      to remove it from the inventory. Check the Inventory Status panel to see the
+      reduced Explosives count.
+    audioClip: {fileID: 8300000, guid: 00da0f8fac275e643827ab45618639b0, type: 3}
+  - stepName: Place the explosive back on the table, then pick up the bullet from
+      the table marked with a blue ghost hand hovering above it.
+    audioClip: {fileID: 8300000, guid: 549f63f22de0cfc46a4d3b6e57b5ac88, type: 3}
+  - stepName: "Place the bullet in the Bullets compartment and release the grab button
+      to snap it into place. The item will be added to your inventory \u2014 check
+      the Inventory Status panel to see the increased Bullets count."
+    audioClip: {fileID: 8300000, guid: 23632c0da3545824db8540098c999de4, type: 3}
+  - stepName: Pick up the bullet from the table marked with a blue ghost hand hovering
+      above it.
+    audioClip: {fileID: 8300000, guid: 0b3defd094a761443b5b9d48e7f55f09, type: 3}
+  - stepName: "Place the bullet in the Bullets compartment and release the grab button
+      to snap it into place. The item will be added to your inventory \u2014 check
+      the Inventory Status panel to see the increased Bullets count."
+    audioClip: {fileID: 8300000, guid: 23632c0da3545824db8540098c999de4, type: 3}
+  - stepName: Grab the bullet with the ghost mesh from the Bullets compartment to
+      remove it from the inventory. Check the Inventory Status panel to see the reduced
+      Bullets count.
+    audioClip: {fileID: 8300000, guid: 45332871ed11c384991d102ad2e0c272, type: 3}
+  - stepName: Place the bullet back on the table, then pick up the AK-47 gun from
+      the table marked with a blue ghost hand hovering above it.
+    audioClip: {fileID: 8300000, guid: 8af6cba1a73d2e04a9ba99e24bd1a391, type: 3}
+  - stepName: "Place the AK-47 gun in the Weapon compartment and release the grab
+      button to snap it into place. The item will be added to your inventory \u2014
+      check the Inventory Status panel to see the Weapon name updated."
+    audioClip: {fileID: 8300000, guid: e4620d58837136f47b7c006b6a23d90e, type: 3}
+  - stepName: Pick up the Barrett M82A1 gun from the table marked with a blue ghost
+      hand hovering above it.
+    audioClip: {fileID: 8300000, guid: f7781ce64285c5f4198f0f4178065f1a, type: 3}
+  - stepName: Try placing the Barrett M82A1 gun into the weapon compartment.
+    audioClip: {fileID: 8300000, guid: 162ce3a55bf879a4083d063f4247bfaa, type: 3}
+  - stepName: Since only one weapon can be stored at a time, you cannot add the Barrett
+      M82A1 gun while another weapon is present. Place the Barrett M82A1 back on
+      the table, then grab the AK-47 gun from the inventory to remove it.
+    audioClip: {fileID: 8300000, guid: a245749e4d5968049ae3957806a768b8, type: 3}
+  - stepName: Pick up the Barrett M82A1 gun from the table marked with a blue ghost
+      hand hovering above it.
+    audioClip: {fileID: 8300000, guid: f7781ce64285c5f4198f0f4178065f1a, type: 3}
+  - stepName: "Place the barrette M82A1 gun in the Weapon compartment and release
+      the grab button to snap it into place. The item will be added to your inventory
+      \u2014 check the Inventory Status panel to see the Weapon name updated."
+    audioClip: {fileID: 8300000, guid: 58170ede78b788b47905169fd484e641, type: 3}
+  - stepName: Pick up the AK-47 gun from the table marked with a blue ghost hand
+      hovering above it.
+    audioClip: {fileID: 8300000, guid: c4507a67121e5664f88f300c0b5ba47c, type: 3}
+  - stepName: Press the trigger button to shoot a bullet from the gun.
+    audioClip: {fileID: 8300000, guid: 6bb33f8fb9d49cb408f3297351ca8e67, type: 3}
+  - stepName: "Check the Inventory Status panel to see the reduced Bullets count
+      \u2014 one bullet has been consumed and removed from the inventory."
+    audioClip: {fileID: 8300000, guid: 7b11ba6047dc5ba4b988e25f699de0b5, type: 3}
+  currentStepIndex: 0
+  showDebugInfo: 1
+  fadeDuration: 0.3
